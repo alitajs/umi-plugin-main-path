@@ -34,7 +34,7 @@
     "@umijs/test-utils": "^1.0.0",
     "body-parser": "^1.18.2",
     "cross-env": "^6.0.3",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "father-build": "^1.17.2",
     "lerna": "^3.20.2",
     "lint-staged": "^10.0.8",
